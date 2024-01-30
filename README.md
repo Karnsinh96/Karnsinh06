@@ -27,4 +27,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karnsinh96&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karnsinh96&show_icons=true&locale=en" alt="karnsinh96" /></p>
